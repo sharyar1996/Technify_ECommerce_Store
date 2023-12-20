@@ -41,6 +41,7 @@
  <ul>
    <li>SpringBoot</li>
    <li>Spring Data JPA / Hibernate </li>
+   <li>Spring MVC </li>
    <li>JPQL </li>
    <li>MySQL</li>
    <li>Spring Security / JWT </li>
