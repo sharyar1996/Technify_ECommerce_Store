@@ -37,12 +37,6 @@
  <li>If any admin adds images to either category or products , then all those images should be in one these formats: <br>
      'image/jpg' , 'image/jpeg' , 'image/png' , 'image/webp' , 'image/gif' .</li>
 
- 
- <h2> DOCUMENTATION </h2>
- <p> For complete documentation of the project and all of its APIs , I used OpenAPI documentation(previously SWAGGER).
- You have to download the source code , run the project and then visit :</p>
- <p><a href = "http://localhost:9090/swagger-ui/index.html"> Technify Project Documentation</p>
-
  <h2>USED TECHNOLOGIES:</h2>
  <ul>
    <li>SpringBoot</li>
@@ -54,7 +48,11 @@
    <li>Object Oriented Programming (OOP concepts) </li>
    <li>Maven</li>
  </ul>
- 
+
+  <h2> DOCUMENTATION </h2>
+ <p> For complete documentation of the project and all of its APIs , I used OpenAPI documentation(previously SWAGGER).
+ You have to download the source code , run the project and then visit :</p>
+ <p><a href = "http://localhost:9090/swagger-ui/index.html"> Technify Project Documentation</p>
  <h2>FUTURE UPDATES</h2>
  <p>In the near future , I will add complete secure payment options for this project and integrate GPS based location & 
  shipment services.</p>
