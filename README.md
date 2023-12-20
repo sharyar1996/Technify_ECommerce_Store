@@ -12,10 +12,11 @@
  <h3>Users / Admins:</h3>
  <li>This application allows users from Pakistan to register/login.</li> 
  <li>Admins can create or modify everything in DataBase (product, user, category, sub categories, images saved on server)</li>
- <li>No user can access the data of another user or modify any resources in the database except for his own 
+ <li> JWT authentication and authorizations based on roles are implemented so no user can access the data of another user or modify any resources in the database except for his own 
   details like password or billing address,etc.</li>
  <li>Validation constraints are applied on every user request object which contains DTOs to ensure no user / admin can
  pass invalid data.</li>
+ <li> User's passwords are encoded using BCryptPasswordEncoder.
  <li>User can add multiple products to the shopping cart and delete products from the shopping cart and can view his  orders.</li>
 
  <h3>Category / Sub-category</h3>
