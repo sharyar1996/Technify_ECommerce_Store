@@ -2,11 +2,7 @@
 
 <img height = '100px' src = "https://discovertemplate.com/wp-content/uploads/2020/12/DT_G65_Electronic-Animated-GIF-Icon-Pack-2.gif">
 <p> An E-Commerce online application based on real world Electronics store. This is a backend web application using Springboot and other Spring modules for tackling different challenges associated with server-side programming. It solves all the problems of modern E-Commerce web application. </p>
-<h6> ADMIN LOGIN DETAILS: </h6>
-<p> email: admin123@gmail.com <br>
- password(case-sensitive) : Pakistan123& </p>
 
- 
  <h2>ABOUT PROJECT</h2>
  
  <h3>Users / Admins:</h3>
