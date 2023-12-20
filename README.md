@@ -11,11 +11,12 @@
  
  <h3>Users / Admins:</h3>
  <li>This application allows users from Pakistan to register/login.</li> 
- <li>Validation constraints are applied on every user request object which contains DTOs to ensure no user / admin can
-  pass invalid data. For example , I created a regex for validating email so no user can set an invalid email.</li>
  <li>Admins can create or modify everything in DataBase (product, user, category, sub categories, images saved on server)</li>
- <li>No user can access the data of another user or modify any resources in the database except for user's own 
- details like password or billing address,etc.</li>
+ <li>No user can access the data of another user or modify any resources in the database except for his own 
+  details like password or billing address,etc.</li>
+ <li>Validation constraints are applied on every user request object which contains DTOs to ensure no user / admin can
+ pass invalid data.</li>
+ <li>User can add multiple products to the shopping cart and delete products from the shopping cart and can view his  orders.</li>
 
  <h3>Category / Sub-category</h3>
  <li>A category can only have sub categories if it directly doesn't contains products.</li>
@@ -28,7 +29,7 @@
   but that didn't delete the files saved on the server hence I switched to my custom recursive method.</li>
   
  <h3>Products</h3>
- <li>Users can browse and search for products based on their price,category,brand and many other criterias.(See the APIs for
+ <li>Users can browse and search for products based on their price,category,brand and many other criterias with pagination and sorting.(See the APIs for
  more details)</li>
  <li>A user can <b>RATE A PRODUCT</b> only if he has bought that product before from this store. </li>
  <li>A maximum of 4 images are allowed per product</li>
