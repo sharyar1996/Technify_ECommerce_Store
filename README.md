@@ -55,7 +55,7 @@
  You have to download the source code , run the project and then visit :</p>
  <p><a href = "http://localhost:9090/swagger-ui/index.html"> Technify Project Documentation</p>
  <h2>FUTURE UPDATES</h2>
- <p>In the near future , I will add complete secure payment options for this project and integrate GPS based location & 
+ <p>In coming days , I will add complete secure payment options for this project and integrate GPS based location & 
  shipment services.</p>
  
  
