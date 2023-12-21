@@ -11,7 +11,7 @@
  <li> JWT authentication and authorizations based on roles are implemented so no user can access the data of another user or modify any resources in the database except for his own 
   details like password or billing address,etc.</li>
  <li>Validation constraints are applied on every user request object which contains DTOs to ensure no user / admin can
- pass invalid data.</li>
+ pass invalid data.For instance , username , passwords , images send by user are all first validated by our application. </li>
  <li> User's passwords are encoded using BCryptPasswordEncoder.
  <li>User can add multiple products to the shopping cart and delete products from the shopping cart and can view his  orders.</li>
 
