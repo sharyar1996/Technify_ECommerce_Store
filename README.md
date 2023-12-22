@@ -53,5 +53,7 @@
  <h2>FUTURE UPDATES</h2>
  <p>In coming days , I will add complete secure payment options for this project and integrate GPS based location & 
  shipment services.</p>
- 
+
+  <h2> QUESTIONS / FEEDBACK </h2>
+  <p> If you have any queries or feedback related to the project , feel free to email me @sharyarjavaid1@gmail.com </p>
  
