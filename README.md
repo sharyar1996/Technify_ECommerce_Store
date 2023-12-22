@@ -3,6 +3,19 @@
 <img height = '100px' src = "https://discovertemplate.com/wp-content/uploads/2020/12/DT_G65_Electronic-Animated-GIF-Icon-Pack-2.gif">
 <p> An E-Commerce online application based on real world Electronics store. This is a backend web application using Springboot and other Spring modules for tackling different challenges associated with server-side programming. It solves all the problems of modern E-Commerce web application. </p>
 
+ <h2>USED TECHNOLOGIES:</h2>
+ <ul>
+   <li>SpringBoot</li>
+   <li>Spring Data JPA / Hibernate </li>
+   <li>Spring MVC </li>
+   <li>JPQL </li>
+   <li>MySQL</li>
+   <li>Spring Security / JWT </li>
+   <li>Swagger / OpenAPI Documentation </li>
+   <li>Object Oriented Programming (OOP concepts) </li>
+   <li>Maven</li>
+ </ul>
+
  <h2>ABOUT PROJECT</h2>
  
  <h3>Users / Admins:</h3>
@@ -32,19 +45,6 @@
  <li>A maximum of 4 images are allowed per product</li>
  <li>If any admin adds images to either category or products , then all those images should be in one these formats: <br>
      'image/jpg' , 'image/jpeg' , 'image/png' , 'image/webp' , 'image/gif' .</li>
-
- <h2>USED TECHNOLOGIES:</h2>
- <ul>
-   <li>SpringBoot</li>
-   <li>Spring Data JPA / Hibernate </li>
-   <li>Spring MVC </li>
-   <li>JPQL </li>
-   <li>MySQL</li>
-   <li>Spring Security / JWT </li>
-   <li>Swagger / OpenAPI Documentation </li>
-   <li>Object Oriented Programming (OOP concepts) </li>
-   <li>Maven</li>
- </ul>
 
   <h2> DOCUMENTATION </h2>
  <p> For complete documentation of the project and all of its APIs , I used OpenAPI documentation(previously SWAGGER).
